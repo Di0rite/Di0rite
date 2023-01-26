@@ -1,5 +1,2 @@
-<p> Hello im korean student who are interested in html, css, JavaScript, windows command <br>
-Discord: 0_100#7838 <br>
-email: wmelon1128@gmail.com, gury202210809@sonline20.sen.go.kr <br>
-Game what I plays: Minecraft(User: 0_100), Roblox(User: Roongji1128)
-</p>
+<p> Hello im korean student who are interested in Linux, C, Python, reverse engineering and pwnable <br>
+Discord: Di0rite#7838 <br> </p>
